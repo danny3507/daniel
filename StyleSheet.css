@@ -2,8 +2,8 @@ body h1 {
     background-image: url('http://tse1.mm.bing.net/th?id=JN.rz%2bw4SBDCw4dRcLWbGTs0Q&w=146&h=100&c=7&rs=1&qlt=90&pid=3.1&rm=2');
 }
 h1 {
-    margin-left: 20px;
-    margin-right: 15px;
+    margin-left: 8px;
+    margin-right: 8px;
     margin-top: 56px;
 }
 h1{
@@ -11,6 +11,6 @@ h1{
    color: #ffd800;
    border: 3px solid #000;
 }
-.nav{
-    color: Red;
+img src{
+    float: right;
 }
