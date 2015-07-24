@@ -11,3 +11,17 @@ h1{
    color: #ffd800;
    border: 3px solid #000;
 }
+h1{
+    font-family: sans-serif;
+}
+.header p{
+    font-family: DFKai-SB;
+    font-size: larger;
+}
+.header{
+    font-family: sans-serif; 
+    
+}
+.awesome list{
+    font-family: sans-serif;
+}
