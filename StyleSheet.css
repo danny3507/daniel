@@ -1,4 +1,4 @@
-body 
+body
 h1 {
     background-image: url('http://tse1.mm.bing.net/th?id=JN.rz%2bw4SBDCw4dRcLWbGTs0Q&w=146&h=100&c=7&rs=1&qlt=90&pid=3.1&rm=2');
     margin-left: 8px;
@@ -22,11 +22,14 @@ h1 {
 }
 .header{
     font-family: sans-serif; 
-    
+    text-align: center;
 }
 .commandments{
     font-family: DFKai-SB;
     font-size: larger;
+}
+.commandments p{
+    text-align: center;
 }
 .list{
     font-family: DFKai-SB;
