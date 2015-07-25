@@ -1,9 +1,6 @@
 body 
 h1 {
     background-image: url('http://tse1.mm.bing.net/th?id=JN.rz%2bw4SBDCw4dRcLWbGTs0Q&w=146&h=100&c=7&rs=1&qlt=90&pid=3.1&rm=2');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
     margin-left: 8px;
     margin-right: 8px;
     margin-top: 56px;
@@ -11,6 +8,13 @@ h1 {
     color: #ffd800;
     border: 3px solid #000;
     font-family: sans-serif;
+}
+@media screen (max-width: 800px){
+    h1 {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
 }
 .header p{
     font-family: DFKai-SB;
