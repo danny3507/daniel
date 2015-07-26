@@ -36,4 +36,18 @@ h1 {
 }
 .nav a{
     color: #000;
+    display: block;
+    text-align: center;
+    background-image: url('http://tse1.mm.bing.net/th?&id=JN.Gbliy3F5Y7vNSBoSGvRllQ&w=300&h=300&c=0&pid=1.9&rs=0&p=0');
+    padding: 110px;
+    background-repeat: no-repeat;
+}
+.nav2 a{
+    color: #000;
+    display: block;
+    text-align: center;
+    background-image: url('http://tse1.explicit.bing.net/th?&id=JN.scgYZAFHgElqAyw0Ou5C5Q&w=300&h=300&c=0&pid=1.9&rs=0&p=0');
+    padding: 40px;
+    background-repeat: no-repeat;
+    
 }
