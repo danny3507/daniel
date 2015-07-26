@@ -1,6 +1,33 @@
 body {
 }
-h1{
-    color: rgba(22, 13, 141, 0.80);
+h1 {
+    color: White;
     text-align: center;
+    border: 1px solid #262d64;
+    background-color: #000;
+    font-family: DFKai-SB;
+}
+h2 {
+    text-align: center;
+    font-family: DFKai-SB;
+}
+.nav2 {
+    text-align: center;
+    font-size: larger;
+}
+.nav2 a {
+    color: Black;
+    display: block;
+}
+.nav a {
+    color: #000;
+    text-align: right;
+    display: block;
+}
+.logo {
+    text-align: center;
+    display: inline;
+}
+.head2 h2 {
+    font-size: xx-large;
 }
