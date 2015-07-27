@@ -1,6 +1,6 @@
 body {
 }
-h1 {
+.mainhead h1 {
     color: White;
     text-align: center;
     border: 1px solid #262d64;
@@ -8,23 +8,25 @@ h1 {
     font-family: DFKai-SB;
     font-style: italic;
     color: #808080;
+    font-size: 37px;
 }
 .mainhead h2 {
+    background-color: #000;
+    border: 1px solid #262d64;
+    color: #808080;
     text-align: center;
     font-family: DFKai-SB;
     font-style: italic;
 }
-.nav2 {
+.nav2 a {
+    color: #000;
+    display: block;
+    font-style: oblique;
     text-align: center;
     font-size: larger;
 }
-.nav2 a {
-    color: Black;
-    display: block;
-    font-style: oblique;
-}
 .nav a {
-    color: #000;
+    color: #262d64;
     text-align: right;
     display:block;
 }
@@ -37,16 +39,19 @@ h1 {
     font-family: DFKai-SB;
     text-align: center;
     font-style: oblique;
-    color: #808080;
+    color: #262d64;
 }
 .bios {
-    text-align: center;
+    text-align: left;
     font-family: DFKai-SB;
     font-style: italic;
+    background-image: url('https://scontent-mia1-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/11144412_10205923473858622_3618374345719636832_n.jpg?oh=3ddd1314b3ab850292613b7165071df1&oe=564B861F');
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .bios a {
     color: #000;
-    font-size: larger;
+    font-size: larger; 
 }
 .bios h2{
     border: 1px solid #262d64;
@@ -54,9 +59,12 @@ h1 {
     background-color: #000
 }
 .shows {
-    text-align: center;
     font-family: DFKai-SB;
     font-style: italic;
+    background-image: url('https://scontent-mia1-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/11144412_10205923473858622_3618374345719636832_n.jpg?oh=3ddd1314b3ab850292613b7165071df1&oe=564B861F');
+    background-position: right; 
+    background-repeat: no-repeat;
+    font-size: larger;   
 }
 .shows h3 {
     border: 1px solid #262d64;
