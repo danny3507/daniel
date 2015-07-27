@@ -39,3 +39,26 @@ h1 {
     font-style: oblique;
     color: #808080;
 }
+.bios {
+    text-align: center;
+    font-family: DFKai-SB;
+    font-style: italic;
+}
+.bios a {
+    color: #000;
+}
+.bios h2{
+    border: 1px solid #262d64;
+    color: #808080;
+    background-color: #000
+}
+.shows {
+    text-align: center;
+    font-family: DFKai-SB;
+    font-style: italic;
+}
+.shows h3 {
+    border: 1px solid #262d64;
+    color: #808080;
+    background-color: #000;
+}
