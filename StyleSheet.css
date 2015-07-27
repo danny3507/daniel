@@ -6,10 +6,13 @@ h1 {
     border: 1px solid #262d64;
     background-color: #000;
     font-family: DFKai-SB;
+    font-style: italic;
+    color: #808080;
 }
-h2 {
+.mainhead h2 {
     text-align: center;
     font-family: DFKai-SB;
+    font-style: italic;
 }
 .nav2 {
     text-align: center;
@@ -18,16 +21,21 @@ h2 {
 .nav2 a {
     color: Black;
     display: block;
+    font-style: oblique;
 }
 .nav a {
     color: #000;
     text-align: right;
-    display: block;
+    display:block;
 }
 .logo {
     text-align: center;
     display: inline;
 }
 .head2 h2 {
-    font-size: xx-large;
+    font-size: x-large;
+    font-family: DFKai-SB;
+    text-align: center;
+    font-style: oblique;
+    color: #808080;
 }
